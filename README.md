@@ -1,4 +1,1 @@
-Hospital Management System is a console-based application used for the efficient management
-of hospital operations, including patient records, doctor appointments and staff details. The
-application is developed using the C programming language and offers an orderly and effective
-way of handling healthcare data with simplicity and performance in consideration.
+Hospital Management System is a console-based application developed in C for the efficient management of hospital operations. This first version focuses on basic functionalities, such as managing patient records, doctor appointments, and staff information. Designed with simplicity and performance in mind, it provides a foundational framework for organizing healthcare data and demonstrates how hospital management can be automated in a structured manner.
